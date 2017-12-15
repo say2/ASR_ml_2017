@@ -18,6 +18,12 @@ typedef struct {
   stateType state[N_STATE];
 } hmmType;
 
+
+typedef struct {
+  float tp[N_STATE+2][N_STATE+2];
+  stateType state[N_STATE];
+} hmmType2;
+
 hmmType phones[] = {
   { "f", // HMM
     { // transition probability
