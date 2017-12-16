@@ -1,5 +1,3 @@
-/Users/say2/Desktop/ASR_ml_2017/tst_minimize/.DS_Store
-/Users/say2/Desktop/ASR_ml_2017/tst_minimize/f/.DS_Store
 /Users/say2/Desktop/ASR_ml_2017/tst_minimize/f/ak/1237743.txt
 /Users/say2/Desktop/ASR_ml_2017/tst_minimize/f/ak/1393387.txt
 /Users/say2/Desktop/ASR_ml_2017/tst_minimize/f/ak/276317o.txt
