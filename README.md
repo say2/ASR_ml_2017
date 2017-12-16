@@ -37,8 +37,12 @@
 
    - 사용한 언어 : C++
    - os : osx
+   - result.txt에서 개행을 처리해줘야(0A->0D0A) Hresult.exe 동작
+
 
    ​
+
+   ![./hresult_screenshot]()
 
 
 
